@@ -19,7 +19,7 @@ maze_0_dict = {'traffic_signals': ['C5', 'D4', 'D6', 'G4'], 'start_node': ['A7']
 # for i,param in enumerate(output_params):
 #     if i>2:
 #         break
-#     if maze_0_dict[param] == maze_0_dict[param]:
+#     if maze_0_dict[param] == output_dict[param]:
 #         passed = True
 #     else:
 #         passed = False
@@ -38,7 +38,7 @@ maze_0_dict = {'traffic_signals': ['C5', 'D4', 'D6', 'G4'], 'start_node': ['A7']
 # print()
 # passed = False
 # for i,param in enumerate(output_params):
-#     if maze_0_dict[param] == maze_0_dict[param]:
+#     if maze_0_dict[param] == output_dict[param]:
 #         passed = True
 #     else:
 #         passed = False
